@@ -1,3 +1,6 @@
+Program shows the sum of two number getting from an html form using variables n1 and n2.
+
+
 <b>hello....welcome to jsp</b>
 <%
 int a=Integer.parseInt(request.getParameter("n1"));
